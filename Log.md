@@ -19,3 +19,13 @@
 **Thoughts:** Ballon Problem * 
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/mojtaba-prepares-contest-29b2a044/submissions/
+
+
+
+### Day 2  Code 1: October 26, 2020
+
+**Today's Progress**: Continued Hacerearth
+
+**Thoughts:** Seating Arrangement* 
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/seating-arrangement-1/submissions/
