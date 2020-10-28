@@ -2,7 +2,7 @@
 
 
 
-### Day 1  Code 1: October 25, 2020
+### Day 1  Code 1: October 26, 2020
 
 **Today's Progress**: I have started coding on hackerearth
 
@@ -12,7 +12,7 @@
 
 
                
-### Day 1  Code 2: October 25, 2020
+### Day 1  Code 2: October 26, 2020
 
 **Today's Progress**: I have started coding on hackerearth
 
@@ -22,10 +22,19 @@
 
 
 
-### Day 2  Code 1: October 26, 2020
+### Day 2  Code 1: October 27, 2020
 
 **Today's Progress**: Continued Hacerearth
 
 **Thoughts:** Seating Arrangement* 
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/seating-arrangement-1/submissions/
+
+
+### Day 3  Code 1: October 28, 2020
+
+**Today's Progress**: Continued Hacerearth
+
+**Thoughts:** Palindrome* 
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/palindrome-check-2/submissions/
