@@ -38,3 +38,13 @@
 **Thoughts:** Palindrome* 
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/palindrome-check-2/submissions/
+
+
+### Day 4  Code 1: October 29, 2020
+
+**Today's Progress**: Continued Hacerearth
+
+**Thoughts:** Multiply problem* 
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/find-product/submissions/
+
