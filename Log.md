@@ -48,3 +48,13 @@
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/find-product/submissions/
 
+
+
+
+### Day 5  Code 1: October 30, 2020
+
+**Today's Progress**: Division Problem
+
+**Thoughts:**  Always try to compact problem size* 
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/divisibe-or-2d8e196a/submissions/
