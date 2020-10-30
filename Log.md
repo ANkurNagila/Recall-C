@@ -58,3 +58,14 @@
 **Thoughts:**  Always try to compact problem size* 
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/divisibe-or-2d8e196a/submissions/
+
+
+
+### Day 5  Code 2: October 30, 2020
+
+**Today's Progress**: Zoo Problem
+
+**Thoughts:**  String stores Ascii values of the character* 
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/is-zoo-f6f309e7/submissions/
+
