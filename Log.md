@@ -73,9 +73,9 @@
 
 ### Day 6  Code 1: October 31, 2020
 
-**Today's Progress**: String Series
+**Today's Progress**:  Series
 
-**Thoughts:**  More About strings* 
+**Thoughts:**  git problems* 
 
 **Link to work:** https://github.com/exercism/c/blob/master/exercises/series/README.md
 
