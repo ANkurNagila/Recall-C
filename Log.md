@@ -69,3 +69,13 @@
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/is-zoo-f6f309e7/submissions/
 
+
+
+### Day 6  Code 1: October 31, 2020
+
+**Today's Progress**: String Series
+
+**Thoughts:**  More About strings* 
+
+**Link to work:** https://github.com/exercism/c/blob/master/exercises/series/README.md
+
