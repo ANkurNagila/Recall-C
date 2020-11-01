@@ -79,3 +79,13 @@
 
 **Link to work:** https://github.com/exercism/c/blob/master/exercises/series/README.md
 
+
+
+
+### Day 7  Code 1: November 1, 2020
+
+**Today's Progress**:  Did something in Hackerearth
+
+**Thoughts:**  Toggle String* 
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/modify-the-string/submissions/
