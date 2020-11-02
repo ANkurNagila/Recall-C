@@ -89,3 +89,12 @@
 **Thoughts:**  Toggle String* 
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/modify-the-string/submissions/
+
+
+### Day 8  Code 1: November 2, 2020
+
+**Today's Progress**:  solving doubts
+
+**Thoughts:**  None* 
+
+**Link to work:** No link
