@@ -108,3 +108,12 @@
 **Thoughts:**  array (Time complexity to control)
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/play-with-numbers-2/submissions/
+
+
+### Day 10  Code 1: November 4, 2020
+
+**Today's Progress**:  A Movement
+
+**Thoughts:**  Basic if else with while loop
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/a-movement-1/submissions/
