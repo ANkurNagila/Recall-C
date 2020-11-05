@@ -117,3 +117,12 @@
 **Thoughts:**  Basic if else with while loop
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/a-movement-1/submissions/
+
+
+### Day 11  Code 1: November 5, 2020
+
+**Today's Progress**:  Series
+
+**Thoughts:**  Basic loops
+
+**Link to work:** self
