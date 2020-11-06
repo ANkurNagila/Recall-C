@@ -126,3 +126,12 @@
 **Thoughts:**  Basic loops
 
 **Link to work:** self
+
+
+### Day 12  Code 1: November 6, 2020
+
+**Today's Progress**:  ......
+
+**Thoughts:**  Books of potion
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/sum-it-if-you-can-4867f851/submissions/
