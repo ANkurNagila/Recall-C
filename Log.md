@@ -135,3 +135,13 @@
 **Thoughts:**  Books of potion
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/sum-it-if-you-can-4867f851/submissions/
+
+
+
+### Day 13  : November 7, 2020
+
+**Today's Progress**:  Basics
+
+**Thoughts:**  Questions Done in hackerearth basics
+
+**Link to work:**...........
